@@ -1,5 +1,4 @@
 <?php
-//include,require,it include the file
 include'connect.php';
 //get data from form
 $n=$_POST['name'];
